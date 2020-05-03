@@ -1,0 +1,11 @@
+<browserconfig>
+<msapplication>
+<tile>
+<square70x70logo src="https://firebasestorage.googleapis.com/v0/b/ship-core.appspot.com/o/Umentor%20Material%2Ficon%2Fmstile-70.png?alt=media&token=4d87f3ae-530d-4c31-8b69-723cc2a895c5"/>
+<square150x150logo src="https://firebasestorage.googleapis.com/v0/b/ship-core.appspot.com/o/Umentor%20Material%2Ficon%2Fmstile-270.png?alt=media&token=0250bf80-0cb1-4d02-ac0a-5d23bf18aefe"/>
+<square310x310logo src="https://firebasestorage.googleapis.com/v0/b/ship-core.appspot.com/o/Umentor%20Material%2Ficon%2Fmstile-310.png?alt=media&token=397225ed-ea82-48fc-a610-bc882330795d"/>
+<wide310x150logo src="https://firebasestorage.googleapis.com/v0/b/ship-core.appspot.com/o/Umentor%20Material%2Ficon%2Fmstile-310w.png?alt=media&token=fcb04e59-2d34-4037-a670-ab4964a47091"/>
+<TileColor>#FFE70B</TileColor>
+</tile>
+</msapplication>
+</browserconfig>
