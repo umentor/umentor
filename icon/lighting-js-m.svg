@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="180px" viewBox="0 0 330 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lightingjs</title>
+    <defs>
+        <filter x="-60.0%" y="-300.0%" width="220.0%" height="700.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="15" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-117.1%" y="-237.9%" width="334.1%" height="575.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="36.8777902" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="196.763642%" id="linearGradient-3">
+            <stop stop-color="#FFFB00" offset="0%"></stop>
+            <stop stop-color="#FFD53B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="74.1005826%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="196.763642%" id="linearGradient-5">
+            <stop stop-color="#FFFB00" offset="0%"></stop>
+            <stop stop-color="#FFD53B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="#323330" x="0" y="0" width="330" height="180"></rect>
+            <g id="logo-JS" transform="translate(283.500000, 146.250000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M0,23.199511 L4.74406239,20.3463116 C5.6592962,21.9589523 6.49187485,23.3233346 8.4888828,23.3233346 C10.4031126,23.3233346 11.6099765,22.579195 11.6099765,19.6846558 L11.6099765,0 L17.435567,0 L17.435567,19.766553 C17.435567,25.7628922 13.8987375,28.492268 8.7385703,28.492268 C4.07827007,28.492268 1.37315822,26.093659 0,23.199022" id="j"></path>
+                <path d="M20.8376289,22.9846785 L25.6155933,20.246413 C26.8733632,22.2795405 28.508018,23.7730841 31.4000711,23.7730841 C33.8314869,23.7730841 35.381894,22.5698366 35.381894,20.9102238 C35.381894,18.9187914 33.7892391,18.2134082 31.1065666,17.0520765 L29.6399118,16.4293477 C25.4062128,14.6456551 22.5977881,12.4052784 22.5977881,7.67558051 C22.5977881,3.31929921 25.9509739,0 31.1905666,0 C34.921009,0 37.6035576,1.28629436 39.5314691,4.64692079 L34.9626373,7.55098569 C33.9566197,5.76717048 32.8670976,5.06190984 31.1905666,5.06190984 C29.4720357,5.06190984 28.3821419,6.14058704 28.3821419,7.55098569 C28.3821419,9.29359632 29.4720357,9.99897959 31.9867082,11.0777794 L33.4536108,11.7000177 C38.4415753,13.8160449 41.25,15.9732767 41.25,20.8272015 C41.25,26.0550334 37.1004249,28.9175258 31.5258233,28.9175258 C26.07685,28.9175258 22.555912,26.3454276 20.8376289,22.9846785" id="s"></path>
+            </g>
+            <g id="Group-6" transform="translate(117.750000, 0.000000)">
+                <ellipse id="Oval-7" fill="#FFFFFF" filter="url(#filter-1)" cx="47.25" cy="129" rx="37.5" ry="7.5"></ellipse>
+                <ellipse id="Oval-7" fill-opacity="0.400000006" fill="#FFFFFF" filter="url(#filter-2)" cx="47.25" cy="84" rx="47.25" ry="23.25"></ellipse>
+                <rect id="Rectangle-5" fill="#FFFB00" x="46.5" y="0" width="1" height="39.75"></rect>
+                <path d="M25.5402368,59.3465347 C25.5402368,59.3465347 23.5998023,61.5 46.6694125,61.5 C69.7390227,61.5 68.2297959,59.3465347 68.2297959,59.3465347 C68.2297959,59.3465347 57.7518855,39.75 47.1006202,39.75 C36.4493549,39.75 25.5402368,59.3465347 25.5402368,59.3465347 Z" id="Path-6" fill="url(#linearGradient-3)"></path>
+                <polygon id="Path-8" fill="url(#linearGradient-4)" points="39.8586957 43.5 55.076087 43.5 68.7717391 59.3724771 92.25 146.997248 47.4673913 162 2.25 146.997248 25.7282609 59.3724771"></polygon>
+                <circle id="Oval-6" fill="#FFFFFF" cx="47.25" cy="57.75" r="5.25"></circle>
+                <path d="M25.5,59.25 C25.5,59.25 28.9543692,56.6785714 46.6580116,56.8928571 C64.3616539,57.1071429 68.25,59.25 68.25,59.25 C68.25,59.25 57.7556092,39.75 47.0898077,39.75 C36.4240062,39.75 25.5,59.25 25.5,59.25 Z" id="Path-6" fill="url(#linearGradient-5)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

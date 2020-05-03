@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="240px" viewBox="0 0 440 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lightingjs</title>
+    <defs>
+        <filter x="-45.0%" y="-225.0%" width="190.0%" height="550.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="15" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-87.8%" y="-178.4%" width="275.6%" height="456.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="36.8777902" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="196.763642%" id="linearGradient-3">
+            <stop stop-color="#FFFB00" offset="0%"></stop>
+            <stop stop-color="#FFD53B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="74.1005826%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="196.763642%" id="linearGradient-5">
+            <stop stop-color="#FFFB00" offset="0%"></stop>
+            <stop stop-color="#FFD53B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#323330" x="0" y="0" width="440" height="240"></rect>
+        <g id="logo-JS" transform="translate(378.000000, 195.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M0,30.9326813 L6.32541652,27.1284154 C7.54572827,29.2786031 8.65583313,31.0977795 11.3185104,31.0977795 C13.8708168,31.0977795 15.4799686,30.1055933 15.4799686,26.2462077 L15.4799686,0 L23.2474227,0 L23.2474227,26.355404 C23.2474227,34.350523 18.53165,37.9896907 11.6514271,37.9896907 C5.43769343,37.9896907 1.83087762,34.7915453 0,30.9320294" id="j"></path>
+            <path d="M27.7835052,30.646238 L34.1541245,26.9952174 C35.831151,29.706054 38.0106907,31.6974455 41.8667614,31.6974455 C45.1086492,31.6974455 47.1758586,30.0931155 47.1758586,27.8802984 C47.1758586,25.2250553 45.0523189,24.2845442 41.4754222,22.736102 L39.5198824,21.9057969 C33.8749504,19.5275402 30.1303841,16.5403712 30.1303841,10.2341073 C30.1303841,4.42573228 34.6012985,0 41.5874222,0 C46.5613454,0 50.1380768,1.71505915 52.7086254,6.19589439 L46.6168498,10.0679809 C45.2754929,7.68956064 43.8227968,6.74921312 41.5874222,6.74921312 C39.2960476,6.74921312 37.8428559,8.18744939 37.8428559,10.0679809 C37.8428559,12.3914618 39.2960476,13.3319728 42.6489443,14.7703726 L44.6048144,15.6000236 C51.2554337,18.4213932 55,21.2977023 55,27.769602 C55,34.7400445 49.4672332,38.556701 42.034431,38.556701 C34.7691333,38.556701 30.0745493,35.1272368 27.7835052,30.646238" id="s"></path>
+        </g>
+        <g id="Group-6" transform="translate(157.000000, 0.000000)">
+            <ellipse id="Oval-7" fill="#FFFFFF" filter="url(#filter-1)" cx="63" cy="172" rx="50" ry="10"></ellipse>
+            <ellipse id="Oval-7" fill-opacity="0.400000006" fill="#FFFFFF" filter="url(#filter-2)" cx="63" cy="112" rx="63" ry="31"></ellipse>
+            <rect id="Rectangle-5" fill="#FFFB00" x="62" y="0" width="1" height="53"></rect>
+            <path d="M34.0536491,79.1287129 C34.0536491,79.1287129 31.4664031,82 62.2258834,82 C92.9853636,82 90.9730612,79.1287129 90.9730612,79.1287129 C90.9730612,79.1287129 77.002514,53 62.8008269,53 C48.5991399,53 34.0536491,79.1287129 34.0536491,79.1287129 Z" id="Path-6" fill="url(#linearGradient-3)"></path>
+            <polygon id="Path-8" fill="url(#linearGradient-4)" points="53.1449275 58 73.4347826 58 91.6956522 79.1633028 123 195.99633 63.2898551 216 3 195.99633 34.3043478 79.1633028"></polygon>
+            <circle id="Oval-6" fill="#FFFFFF" cx="63" cy="77" r="7"></circle>
+            <path d="M34,79 C34,79 38.6058256,75.5714286 62.2106821,75.8571429 C85.8155385,76.1428571 91,79 91,79 C91,79 77.007479,53 62.7864103,53 C48.5653416,53 34,79 34,79 Z" id="Path-6" fill="url(#linearGradient-5)"></path>
+        </g>
+    </g>
+</svg>
