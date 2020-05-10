@@ -1,16 +1,21 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/ship-core.appspot.com/o/umentor-website-material%2Fumentor-snow.svg?alt=media&token=2e937e54-91ce-4264-83ea-969b8be7270b">
 
+<a href="https://gitter.im/umentorjs/community">
+		<img src="https://badges.gitter.im/umentorjs/umentorjs.svg">
+	</a>
+
 <h2 align="center">Umentor JS</h2>
 <h3 align="left">Table of Contents</h3>
 
 1. [Introduction](#introduction)
 2. [Program](#program)
 3. [Inclusivity](#inclusivity)
-4. [Organization Members](#organization-members)
-5. [Committer Team](#committer-team)
-6. [Voting](#voting)
-7. [Sponsoring](#sponsoring)
-8. [Code of Conduct](#code-of-conduct)
+4. [Core Team](#core-team)
+5. [Members](#members)
+6. [Committer Team](#committer-team)
+7. [Voting](#voting)
+8. [Sponsoring](#sponsoring)
+9. [Support](#support)
 
 <h3 align="left">Introduction</h3>
 
@@ -24,7 +29,35 @@ Our highly immersive, free of cost learning and open classroom training to teach
 
 Students, volunteers and representatives from our sponsoring organizations come to Umentor with an amazing diversity of identities and experiences. We strive to make Umentor an inclusive, safe and fair space for every member of our community. We recognize and celebrate differences along many axes including, but not limited to, race, ethnicity, class, age, religion, physical appearance, abilities, national origin, educational background, and parental status. All diverse people are encouraged to apply and contribute.
 
-<h3 align="left">Organization Members</h3>
+<h3 align="left">Core Team</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/andae.png?s=100">
+        <br>
+        <a href="https://github.com/sokra">Julianda</a>
+        <p>Core</p>
+      </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/fvdavid.png?s=100">
+        <br>
+        <a href="https://github.com/fvdavid">David Tobing</a>
+        <p>Development</p>  
+      </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/inamira.png?s=100">
+        <br>
+        <a href="https://github.com/inamira">Namira</a>
+        <p>Public Relations</p>
+      </td>
+     </tr>
+  </tbody>
+</table>
+
+
+<h3 align="left">Members</h3>
 
 We have following groups to manage and contribute the project, each one has its own rights and responsibilities.
 
@@ -36,10 +69,7 @@ As a member of Committer Team, you must contribute and maintain the features or 
 - Vote right for promoting Committer to PMC.
 
 The current Committer Team members is as follows (in alphabeta order):
-- David Tobing [@fvdavid](https://github.com/fvdavid)
 - Ipostag [@ipostag](https://github.com/ipostag)
-- Julianda [@andae](https://github.com/andae)
-- Namira [@inamira](https://github.com/inamira)
 
 
 <h3 align="left">Voting</h3>
@@ -58,8 +88,7 @@ This is how we use the donations:
 - Supporting projects in ecosystems that are very valuable to students.
 - Cost of accommodation and supporting programs.
 
-<h3 align="left">Code of Conduct</h3>
+<h3 align="left">Support</h3>
 
-This project follows the Contributor Covenant Code of Conduct: https://contributor-covenant.org.
-
+If you want to discuss something or just need help, [here is our Gitter room](https://gitter.im/umentorjs/community) where there are always individuals looking to help out!
 
