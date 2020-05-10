@@ -19,7 +19,7 @@
 
 <h3 align="left">Introduction</h3>
 
-Umentor.JS.ORG® is a non-profit project of an individual. Dedicated to expanding access to computer science, specifically developing JavaScript programming languages. We focus on serving low-income, under-represented minorities and increasing the participation of women and young people in Indonesia.
+Umentor JavaScript is a non-profit project of an individual. Dedicated to expanding access to computer science, specifically developing JavaScript programming languages. We focus on serving low-income, under-represented minorities and increasing the participation of women and young people in Indonesia.
 
 <h3 align="left">Program</h3>
 
