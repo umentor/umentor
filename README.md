@@ -4,7 +4,7 @@
 		<img src="https://badges.gitter.im/umentorjs/umentorjs.svg">
 	</a>
 
-<h2 align="center">Umentor JS</h2>
+<h2 align="center">Umentor JavaScript</h2>
 <h3 align="left">Table of Contents</h3>
 
 1. [Introduction](#introduction)
