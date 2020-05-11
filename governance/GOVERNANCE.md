@@ -94,9 +94,5 @@ Decision making must comply with the [Guiding Principles](/guiding-principles.md
 
 ### Proposal process
 
-We use a [Request for Comments (RFC) process for any substantial changes to Umentor. This process involves an upfront design that will provide increased visibility to the community. If you're considering a PR that will bring in a new feature that may affect how Umentor is implemented, or may be a breaking change, then you should start with a RFC. The process is documented in [RFC repository](https://github.com/) and have a [template](https://github.com/) for you to get started. However, it is suggested that you bring this proposal for initial SIG discussions before you submit the RFC, which makes the process more smooth and efficient.
-
-## Adding new SIGs/projects
-
-New SIGs or projects can be added to the Umentor organization via [RFC process](#proposal-process), as long as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this document. Once sufficient discussions have taken place under the RFC PR with consensus reached, the follow-up process can begin.
+We use a [Request for Comments (RFC) process for any substantial changes to Umentor. This process involves an upfront design that will provide increased visibility to the community. If you're considering a PR that will bring in a new feature that may affect how Umentor is implemented, or may be a breaking change, then you should start with a RFC. The process is documented in RFC repository and have a template for you to get started. However, it is suggested that you bring this proposal for initial SIG discussions before you submit the RFC, which makes the process more smooth and efficient.
 
