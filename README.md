@@ -18,7 +18,7 @@ Umentor is a non-profit project of an individual. Dedicated to expanding access 
 
 <h3 align="left">Program</h3>
 
-Our highly immersive, free of cost learning and open classroom training to teach our students both how to write code (practical tools and the basics of computer science) and how to become a software developer (leadership, inclusivity, and career). Our core values ​​are building and contributing to a supportive community; creating and advocating for inclusivity; and teaching and practicing lifelong learning, all in the technology industry.
+Our highly immersive, free of cost learning and open classroom training to teach our students both how to write code (practical tools and the basics of computer science) and how to become a software developer (leadership, inclusivity, and career). Our core values ​​are building and contributing to a supportive community; creating and advocating for inclusivity; and teaching and practicing lifelong learning, all in the open sources technology industry.
 
 <h3 align="left">Contributing</h3>
 
