@@ -43,19 +43,19 @@ More details can be found at this project's [contributing guidelines](.github/CO
         <img width="100" height="100" src="https://github.com/andae.png?s=100">
         <br>
         <a href="https://github.com/andae">Julianda</a>
-        <p>Founding <br> father</p>
+        <p>Founding<br> father</p>
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/fvdavid.png?s=100">
         <br>
         <a href="https://github.com/fvdavid">David Tobing</a>
-        <p>Project Management <br> Committee</p>  
+        <p>Project<br> Management</p>  
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/inamira.png?s=100">
         <br>
         <a href="https://github.com/inamira">Namira</a>
-        <p>Public <br> Relations</p>
+        <p>Public<br> Relations</p>
       </td>
      </tr>
     </tbody>
