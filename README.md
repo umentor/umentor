@@ -43,7 +43,7 @@ More details can be found at this project's [contributing guidelines](.github/CO
         <img width="100" height="100" src="https://github.com/andae.png?s=100">
         <br>
         <a href="https://github.com/andae">Julianda</a>
-        <p>Founding<br> father</p>
+        <p>Founding<br> Father</p>
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/fvdavid.png?s=100">
