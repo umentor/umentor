@@ -1,5 +1,5 @@
 # Contributing
-
+> Note!
 > How to add a new resource to [learn_to_program.md](https://github.com/umentor/umentor/blob/master/learn_to_program.md)
 
 Adding more things to learn from is great! Please add your resource under the appropriate heading, creating new ones where necessary. Also write a few words describing your resource! For example: if it's a paid resource, what format it's in (video, ebook, tutorial), if it's particularly good for beginner or advanced people, etc.
