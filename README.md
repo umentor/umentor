@@ -63,7 +63,7 @@ More details can be found at this project's [contributing guidelines](.github/CO
 
 <h3 align="left">Sponsoring</h3>
 
-Most of the core team members, contributors and volunteers in the ecosystem do this work in their free time. If you want us to invest more time in that, please donate. Become our sponsor and get your logo on the <a href="https://umentor.js.org">Umentor.JS.ORG</a> page with a link to your site.
+Most of the core team members, contributors and volunteers in the ecosystem do this work in their free time. If you want us to invest more time in that, please donate. Become our sponsor and get your logo on the <a href="https://umentor.js.org">Umentor.JS.ORG</a> and <a href="https://github.com/umentor/umentor/blob/master/README.md">README.md</a> page with a link to your site.
 
 This is how we use the donations:
 
