@@ -18,23 +18,18 @@ Umentor is a non-profit project of an individual. Dedicated to expanding access 
 
 Our highly immersive, free of cost learning and open classroom training to teach our students both how to write code (practical tools and the basics of computer science) and how to become a software developer (leadership, inclusivity, and career). Our core values ​​are building and contributing to a supportive community; creating and advocating for inclusivity; and teaching and practicing lifelong learning, all in the technology industry.
 
-<h3 align="left"><a href="https://github.com/umentor/umentor/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a></h3>
-
-This is the current recommended Code of Conduct for all Umentor events.
-Please make sure to have a copy or link to it on your event page.
-
 <h3 align="left">Contributing</h3>
 
 Outline the guidelines for how someone can contribute
 
-1. 🍴 [Fork this repo](https://github.com/umentor/umentor#fork-destination-box)
-2. 🔨 Follow the [contributing guidelines](.github/CONTRIBUTING.md) outlined below
-3. 👥 Add yourself as a contributor under the credits section
-4. 🔧 [Make a pull request](https://github.com/umentor/umentor/compare)
+1. 🍴 [Fork this repo](https://github.com/umentor/umentor#fork-destination-box).
+2. 🔨 Follow the [contributing guidelines](.github/CONTRIBUTING.md) outlined below.
+3. 👥 Add yourself as a contributor under the credits section.
+4. 🔧 [Make a pull request](https://github.com/umentor/umentor/compare).
 5. 🎉 Get your pull request approved - success!
+6. 👩‍💻👨🏻‍💻 See the current recommended [Code of Conduct](https://github.com/umentor/umentor/blob/master/CODE_OF_CONDUCT.md).
 
 Or just [create an issue](https://github.com/umentor/umentor/issues) - any little bit of help counts! 😊
-
 More details can be found at this project's [contributing guidelines](.github/CONTRIBUTING.md).
 
 <h3 align="left">Core Team</h3>
@@ -62,8 +57,6 @@ More details can be found at this project's [contributing guidelines](.github/CO
      </tr>
     </tbody>
     </table>
-
-
 
 <h3 align="left">Sponsoring</h3>
 
