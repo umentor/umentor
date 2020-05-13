@@ -1,8 +1,10 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/ship-core.appspot.com/o/umentor-website-material%2Fumentor-snow.svg?alt=media&token=2e937e54-91ce-4264-83ea-969b8be7270b">
 
 <a href="https://gitter.im/umentorjs/community">
-		<img src="https://badges.gitter.im/umentorjs/umentorjs.svg">
-	</a>
+<img src="https://badges.gitter.im/umentorjs/umentorjs.svg">
+</a>
+
+[![GitHub Issues](https://img.shields.io/github/issues/umentor/umentor.svg?style=flat-square)](https://github.com/umentor/umentor/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/umentor/umentor.svg?style=flat-square)](https://github.com/umentor/umentor/pulls) [![MIT License](https://img.shields.io/github/license/umentor/umentor.svg?style=flat-square)](http://badges.mit-license.org)
 
 <h2 align="center">Welcome to Umentor</h2>
 
