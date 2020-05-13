@@ -12,7 +12,7 @@
 
 This repository is where we will gather resources and guidelines for Umentor network.
 
-This repository hosts the sourcecode and the website [(in branch gh-pages)](https://github.com/umentor/umentor/tree/gh-pages) of the Umentor.JS.ORG.
+This repository hosts the sourcecode and the website [(in branch gh-pages)](https://github.com/umentor/umentor/tree/gh-pages) of the <a href="https://umentor.js.org">Umentor.JS.ORG.</a>
 
 <h3 align="left">Introduction</h3>
 
