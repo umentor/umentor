@@ -10,9 +10,8 @@
 
 <h3 align="left">Guidelines and Resources</h3>
 
-This repository is where we will gather resources and guidelines for Umentor network.
-
-This repository hosts the sourcecode and the website [(in branch gh-pages)](https://github.com/umentor/umentor/tree/gh-pages) of the <a href="https://umentor.js.org">Umentor.JS.ORG.</a>
+- This repository is where we will gather resources and guidelines for Umentor network.<br/>
+- This repository hosts the sourcecode and the website [(in branch gh-pages)](https://github.com/umentor/umentor/tree/gh-pages) of the <a href="https://umentor.js.org">Umentor.JS.ORG.</a>
 
 <h3 align="left">Introduction</h3>
 
@@ -33,8 +32,7 @@ Outline the guidelines for how someone can contribute
 5. 🎉 Get your pull request approved - success!
 6. 👨🏻‍💻 See the current recommended [Code of Conduct](https://github.com/umentor/umentor/blob/master/CODE_OF_CONDUCT.md).
 
-Or just [create an issue](https://github.com/umentor/umentor/issues) - any little bit of help counts! 😊
-
+Or just [create an issue](https://github.com/umentor/umentor/issues) - any little bit of help counts! <br/>
 More details can be found at this project's [contributing guidelines](.github/CONTRIBUTING.md).
 
 <h3 align="left">Core Team</h3>
