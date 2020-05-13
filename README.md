@@ -32,6 +32,7 @@ Outline the guidelines for how someone can contribute
 6. 👨🏻‍💻 See the current recommended [Code of Conduct](https://github.com/umentor/umentor/blob/master/CODE_OF_CONDUCT.md).
 
 Or just [create an issue](https://github.com/umentor/umentor/issues) - any little bit of help counts! 😊
+
 More details can be found at this project's [contributing guidelines](.github/CONTRIBUTING.md).
 
 <h3 align="left">Core Team</h3>
