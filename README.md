@@ -4,77 +4,65 @@
 		<img src="https://badges.gitter.im/umentorjs/umentorjs.svg">
 	</a>
 
-<h2 align="center">Umentor JavaScript</h2>
-<h3 align="left">Table of Contents</h3>
+<h2 align="center">Welcome to Umentor</h2>
 
-1. [Introduction](#introduction)
-2. [Program](#program)
-3. [Inclusivity](#inclusivity)
-4. [Core Team](#core-team)
-5. [Members](#members)
-6. [Committer Team](#committer-team)
-7. [Voting](#voting)
-8. [Sponsoring](#sponsoring)
-9. [Support](#support)
+<h3 align="left">Guidelines and Resources</h3>
+
+This repository is where we will gather resources and guidelines for Umentor network.
 
 <h3 align="left">Introduction</h3>
 
-Umentor JavaScript is a non-profit project of an individual. Dedicated to expanding access to computer science, specifically developing JavaScript programming languages. We focus on serving low-income, under-represented minorities and increasing the participation of women and young people in Indonesia.
+Umentor is a non-profit project of an individual. Dedicated to expanding access to computer science, specifically developing JavaScript programming languages. We focus on serving low-income, under-represented minorities and increasing the participation of women and young people in Indonesia.
 
 <h3 align="left">Program</h3>
 
 Our highly immersive, free of cost learning and open classroom training to teach our students both how to write code (practical tools and the basics of computer science) and how to become a software developer (leadership, inclusivity, and career). Our core values ​​are building and contributing to a supportive community; creating and advocating for inclusivity; and teaching and practicing lifelong learning, all in the technology industry.
 
-<h3 align="left">Inclusivity</h3>
+<h3 align="left"><a href="https://github.com/umentor/umentor/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a></h3>
 
-Students, volunteers and representatives from our sponsoring organizations come to Umentor with an amazing diversity of identities and experiences. We strive to make Umentor an inclusive, safe and fair space for every member of our community. We recognize and celebrate differences along many axes including, but not limited to, race, ethnicity, class, age, religion, physical appearance, abilities, national origin, educational background, and parental status. All diverse people are encouraged to apply and contribute.
+This is the current recommended Code of Conduct for all Umentor events.
+Please make sure to have a copy or link to it on your event page.
+
+<h3 align="left">Contributing</h3>
+
+Outline the guidelines for how someone can contribute
+
+1. 🍴 [Fork this repo](https://github.com/umentor/umentor#fork-destination-box)
+2. 🔨 Follow the [contributing guidelines](.github/CONTRIBUTING.md) outlined below
+3. 👥 Add yourself as a contributor under the credits section
+4. 🔧 [Make a pull request](https://github.com/umentor/umentor/compare)
+5. 🎉 Get your pull request approved - success!
+
+Or just [create an issue](https://github.com/umentor/umentor/issues) - any little bit of help counts! 😊
+
+More details can be found at this project's [contributing guidelines](.github/CONTRIBUTING.md).
 
 <h3 align="left">Core Team</h3>
-
-<table>
-  <tbody>
+    <table>
+    <tbody>
     <tr>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/andae.png?s=100">
         <br>
         <a href="https://github.com/andae">Julianda</a>
-        <p>Core</p>
+        <p>Founding <br> father</p>
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/fvdavid.png?s=100">
         <br>
         <a href="https://github.com/fvdavid">David Tobing</a>
-        <p>Development</p>  
+        <p>Project Management <br> Committee</p>  
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/inamira.png?s=100">
         <br>
         <a href="https://github.com/inamira">Namira</a>
-        <p>Public Relations</p>
+        <p>Public <br> Relations</p>
       </td>
      </tr>
-  </tbody>
-</table>
+    </tbody>
+    </table>
 
-
-<h3 align="left">Members</h3>
-
-We have following groups to manage and contribute the project, each one has its own rights and responsibilities.
-
-<h3 align="left">Committer Team</h3>
-
-As a member of Committer Team, you must contribute and maintain the features or modules. Because of that, you have following rights:
-- Merge right for pull request.
-- Vote right for promoting contributor to Committer Team.
-- Vote right for promoting Committer to PMC.
-
-The current Committer Team members is as follows (in alphabeta order):
-- Ipostag [@ipostag](https://github.com/ipostag)
-
-
-<h3 align="left">Voting</h3>
-
-In a variety of situations, Umentor will vote through informal consensus. These votes can happen on the phone, email, or via a voting service, when appropriate. Voters can either respond "agree, yes, +1", "disagree, no, -1", or "abstain". A vote passes with two-thirds vote of votes cast. An abstain vote equals not voting at all.
 
 
 <h3 align="left">Sponsoring</h3>
@@ -91,4 +79,9 @@ This is how we use the donations:
 <h3 align="left">Support</h3>
 
 If you want to discuss something or just need help, [here is our Gitter room](https://gitter.im/umentorjs/community) where there are always individuals looking to help out!
+
+<h3 align="left">Credits</h3>
+
+Thank you to our lovely [contributors](https://github.com/umentor/umentor/graphs/contributors).
+
 
