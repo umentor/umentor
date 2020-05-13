@@ -27,7 +27,7 @@ Outline the guidelines for how someone can contribute
 3. 👥 Add yourself as a contributor under the credits section.
 4. 🔧 [Make a pull request](https://github.com/umentor/umentor/compare).
 5. 🎉 Get your pull request approved - success!
-6. 👩‍💻👨🏻‍💻 See the current recommended [Code of Conduct](https://github.com/umentor/umentor/blob/master/CODE_OF_CONDUCT.md).
+6. 👨🏻‍💻 See the current recommended [Code of Conduct](https://github.com/umentor/umentor/blob/master/CODE_OF_CONDUCT.md).
 
 Or just [create an issue](https://github.com/umentor/umentor/issues) - any little bit of help counts! 😊
 More details can be found at this project's [contributing guidelines](.github/CONTRIBUTING.md).
@@ -60,7 +60,7 @@ More details can be found at this project's [contributing guidelines](.github/CO
 
 <h3 align="left">Sponsoring</h3>
 
-Most of the core team members, contributors and volunteers in the ecosystem do this work in their free time. If you want us to invest more time in that, please donate. Become our sponsor and get your logo on the Umentor.JS.ORG page with a link to your site.
+Most of the core team members, contributors and volunteers in the ecosystem do this work in their free time. If you want us to invest more time in that, please donate. Become our sponsor and get your logo on the <a href="https://umentor.js.org">Umentor.JS.ORG</a>page with a link to your site.
 
 This is how we use the donations:
 
