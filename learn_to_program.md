@@ -13,3 +13,8 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 
 - [Javascript](#javascript)
 
+### JavaScript
+
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [READY TO TRY JavaScript?](https://www.javascript.com/)
+- [Mozilla's Javascript Tutorial](https://developer.mozilla.org/id/docs/Web/JavaScript)
