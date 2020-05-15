@@ -5,6 +5,7 @@
 </a>
 
 [![GitHub Issues](https://img.shields.io/github/issues/umentor/umentor.svg?style=flat-square)](https://github.com/umentor/umentor/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/umentor/umentor.svg?style=flat-square)](https://github.com/umentor/umentor/pulls) [![MIT License](https://img.shields.io/github/license/umentor/umentor.svg?style=flat-square)](http://badges.mit-license.org)
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](CODE_OF_CONDUCT.md)
 
 <h2 align="center">Welcome to Umentor</h2>
 
