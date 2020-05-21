@@ -61,6 +61,26 @@ More details can be found at this project's [contributing guidelines](.github/CO
         <p>Public<br> Relations</p>
       </td>
      </tr>
+        <tr>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/grasakgrusuk.png?s=100">
+        <br>
+        <a href="https://github.com/grasakgrusuk">Rian Fahmi</a>
+        <p>Steering <br> Committee.</p>
+      </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/dian-mmg.png?s=100">
+        <br>
+        <a href="https://github.com/dian-mmg">Dian</a>
+        <p>Organizer  <br> Committee.</p>
+      </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/arliyandi82.png?s=100">
+        <br>
+        <a href="https://github.com/arliyandi82">Arliyandi</a>
+        <p>Organizer <br> Committee.</p>
+      </td>
+     </tr>
     </tbody>
     </table>
 
