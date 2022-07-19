@@ -60,6 +60,12 @@ More details can be found at this project's [contributing guidelines](.github/CO
         <a href="https://github.com/nanangrajimin">Nanang R</a>
         <p>Public<br> Relations</p>
       </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/ipostag.png?s=100">
+        <br>
+        <a href="https://github.com/ipostag">ipos#</a>
+        <p>Organizer <br> Committee.</p>
+      </td>
      </tr>
         <tr>
       <td align="center" valign="top">
