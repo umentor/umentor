@@ -45,7 +45,7 @@ More details can be found at this project's [contributing guidelines](.github/CO
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/andae.png?s=100">
         <br>
-        <a href="https://github.com/andae">Julianda</a>
+        <a href="https://github.com/andae">Juli Anda</a>
         <p>Founding<br> Father</p>
       </td>
       <td align="center" valign="top">
@@ -53,12 +53,6 @@ More details can be found at this project's [contributing guidelines](.github/CO
         <br>
         <a href="https://github.com/fvdavid">David Tobing</a>
         <p>Project<br> Management</p>  
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/nanangrajimin.png?s=100">
-        <br>
-        <a href="https://github.com/nanangrajimin">Nanang R</a>
-        <p>Public<br> Relations</p>
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/ipostag.png?s=100">
@@ -69,23 +63,12 @@ More details can be found at this project's [contributing guidelines](.github/CO
      </tr>
         <tr>
       <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/grasakgrusuk.png?s=100">
+        <img width="100" height="100" src="https://github.com/al-ianfebrian.png?s=100">
         <br>
-        <a href="https://github.com/grasakgrusuk">Rian Fahmi</a>
+        <a href="https://github.com/al-ianfebrian">Ian Febrian</a>
         <p>Steering <br> Committee.</p>
       </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/dian-mmg.png?s=100">
-        <br>
-        <a href="https://github.com/dian-mmg">Dian</a>
-        <p>Organizer  <br> Committee.</p>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/arliyandi82.png?s=100">
-        <br>
-        <a href="https://github.com/arliyandi82">Arliyandi</a>
-        <p>Organizer <br> Committee.</p>
-      </td>
+    
      </tr>
     </tbody>
     </table>
